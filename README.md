@@ -1,0 +1,2 @@
+# qBot
+Multipurpose discord bot
